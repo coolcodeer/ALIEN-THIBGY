@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(97, 138, 174);
+    font-family: 'Zeyada', cursive;
+}
+.header_div{
+    background-color: rgb(105, 153, 180);
+    color: rgb(0, 41, 82);
+    font-weight: bold;
+    font-size: 50px;
+}
+.header_div p{
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 12px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+.footer{
+    font-size:10px;
+    bottom:0;
+    position: fixed;
+    width:100%;
+    color: rgb(255, 255, 255);
+}
